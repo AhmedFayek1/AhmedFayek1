@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60"/>
 </p>
 
 ---
@@ -27,5 +27,5 @@ I'm a Flutter developer passionate about building beautiful, fast, and scalable 
 
 ## 📫 How to reach me
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- Email: ahmedfayeka022@gmail.com
+- linkedin: linkedin.com/in/ahmedmfayek
