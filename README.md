@@ -28,4 +28,4 @@ I'm a Flutter developer passionate about building beautiful, fast, and scalable 
 ## 📫 How to reach me
 
 - Email: ahmedfayeka022@gmail.com
-- linkedin: linkedin.com/in/ahmedmfayek
+- linkedin: www.linkedin.com/in/ahmedmfayek
